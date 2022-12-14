@@ -78,7 +78,7 @@ function submit() {
 	document.getElementById('name1').value = '';
 	document.getElementById('branch1').value = '';
 	document.getElementById('year1').value = '';
-	document.getElementById('section1').value = '';
+	document.getElementById('section1').value = 'A';
 	document.getElementById('htno1').value = '';
 	document.getElementById('phoneno1').value = '';
 	document.getElementById('email1').value = '';
@@ -86,7 +86,7 @@ function submit() {
 	document.getElementById('name2').value = '';
 	document.getElementById('branch2').value = '';
 	document.getElementById('year2').value = '';
-	document.getElementById('section2').value = '';
+	document.getElementById('section2').value = 'A';
 	document.getElementById('htno2').value = '';
 	document.getElementById('phoneno2').value = '';
 	document.getElementById('email2').value = '';
